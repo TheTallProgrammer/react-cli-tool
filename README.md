@@ -62,11 +62,7 @@ When you run the command, the tool will:
 4.  Create a standard directory structure for React projects (components, pages, styles).
 5.  Initialize a new Git repository.
 
-## Interactive Video Demonstration
 
-For a comprehensive understanding of how the React Project CLI Tool enhances your development workflow, please view our video demonstration below. This visual guide walks you through the installation process and showcases the tool's capabilities in action.
-
-![React Project CLI Tool Video Demo](demo.gif)
 ## Troubleshooting
 
 -   **Command Not Found**: If you get an error saying "command not found" after installation, close and reopen your terminal, or log out and log back in to your system. This refreshes your system's path.
