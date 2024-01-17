@@ -1,0 +1,29 @@
+{
+  "name": "react-cli-tool",
+  "version": "1.0.0",
+  "description": "A CLI tool to bootstrap React projects with custom configurations.",
+  "main": "cliTool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-cli-tool": "./cliTool.js"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "bootstrap",
+    "create-react-app"
+  ],
+  "author": "Logan",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "inquirer": "^9.2.12",
+    "shelljs": "^0.8.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheTallProgrammer/react-cli-tool.git"
+  }
+}
