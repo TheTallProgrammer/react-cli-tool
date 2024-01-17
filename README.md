@@ -20,10 +20,12 @@ This CLI (Command Line Interface) tool is designed to streamline the process of 
 
 ### Default `create-react-app` Structure
 ![Default Structure](default-react-app.PNG)
+
 *Note: Typical cluttered structure with unused files and boilerplate code.*
 
 ### React Project CLI Tool Structure
 ![React Project CLI Tool Structure](my-react-app-initialization.PNG)
+
 *Note: Streamlined and efficient, free from redundant files, imports, and comments, ensuring a quick start to coding.*
 
 By using the React Project CLI Tool, you step into an environment designed for immediate productivity and creativity.
